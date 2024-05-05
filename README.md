@@ -12,8 +12,8 @@ To write a python program for creating File Transfer using TCP Sockets Links
 ## PROGRAM
 ### Client:
 ```
-#Name: Mohamed Anas O.I
-#Reg No: 212223110028
+#Name: DANISH NICHO.N
+#Reg No: 212222040030
 
 import socket
 
@@ -41,8 +41,8 @@ print('connection closed')
 ```
 ### Server:
 ```
-#Name: Mohamed Anas O.I
-#Reg No: 212223110028
+#Name: DANISH NICHO.N
+#Reg No: 212222040030
 
 import socket
 
